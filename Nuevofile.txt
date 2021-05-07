@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 Modificacion 1. sin branchs
 añadiendo algo en esta linea
 Este cambio irá en la rama branch y no en header 2.
+=======
+Modificacion 1. sin branchs
+añadiendo algo en esta linea
+Este cambio irá en la rama branch y no en header 2.
+añadiendo una cuarta linea
+>>>>>>> cabecera
